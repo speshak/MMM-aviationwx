@@ -1,5 +1,6 @@
 # Store any extra files used for further customization in an extra/ subdirectory
 extra/
+node_modules/
 
 # OS generated files
 .DS_Store
